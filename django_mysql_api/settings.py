@@ -82,7 +82,7 @@ DATABASES = {
         'PORT': '3306',
         'USER': 'root',
         'PASSWORD':'namaste1234',
-        'NAME':'django_api',
+        'NAME':'api_db',
 
     }
 }
